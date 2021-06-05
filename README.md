@@ -1,6 +1,6 @@
-#### By **{mi}**
+#### By **{MILDRED KIGOI}**
 ## Description
-{This is about me.Through it you get to know me better.my education background and even my hobbies }
+{This is my portfolio landing page where you get to know me better. }
 ## Setup/Installation Requirements
 * Clone the repo {git clone https://github.com/milliewood/my-portfolio.git}
 ## [Live link]()
