@@ -1,4 +1,25 @@
 .projects{
     background-color: beige;
     font-size: x-large;
+
+}
+.aboutme{
+    font-size: x-large;
+    background-color: black;
+    color: white;
+}
+body{
+    background-color: beige;
+}
+img{
+    
+    height: 300px;
+    width: 200px;
+    float: none;
+    align-content: center;
+    justify-content: center;
+    margin-left: 200px;
+}
+.hobbies{
+    font-size: x-large;
 }
