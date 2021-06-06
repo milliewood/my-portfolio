@@ -3,7 +3,7 @@
 {This is my portfolio landing page where you get to know me better. }
 ## Setup/Installation Requirements
 * Clone the repo {git clone https://github.com/milliewood/my-portfolio.git}
-## [Live link]()
+## [Live link]( https://milliewood.github.io/my-portfolio/)
 ## Known Bugs
 There are no known bugs
 ## Technologies Used
